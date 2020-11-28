@@ -19,8 +19,8 @@ The documentation for this library is annotated directly in the source files and
     doxygen
 
 As configured in the `Doxygen` file, a folder `./doxydoc` will be created.
-In this folder will be two subfolders `html` and `latex`.
-To view the documentation, you can e.g. open the file `index.html` in the `html` folder.
+In this folder will be a subfolder `html`.
+To view the documentation, you open the file `index.html` in that folder.
 
 ## Known Issues
 The library is not yet completely implemented. 
