@@ -14,7 +14,7 @@ Basic usage: include the library in your code, initialize it and
     #include <sds011lib.h>
 
 ## Documentation
-The documentation for this library is annotated directly in the source files and can be generated using [Doxygen](https://www.doxygen.nl/index.html):
+The documentation for this library is annotated directly in the source files and can be generated using [Doxygen](https://www.doxygen.nl/index.html) from the root folder of the repository:
 
     doxygen
 
